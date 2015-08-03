@@ -1,0 +1,21 @@
+{
+	"document_class": "Main",
+	"native": {
+		"path_ignore": [
+			"libs"
+		]
+	},
+	"modules": [
+		{
+			"name": "core"
+		},
+		{
+			"name": "gui"
+		},
+		{
+			"name": "puremvc",
+			"path": "."
+		}
+	],
+	"egret_version": "1.5.1"
+}
